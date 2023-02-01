@@ -1,0 +1,17 @@
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\bin\Debug\net6.0-windows\form_elemnaları_kod.exe
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\bin\Debug\net6.0-windows\form_elemnaları_kod.deps.json
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\bin\Debug\net6.0-windows\form_elemnaları_kod.runtimeconfig.json
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\bin\Debug\net6.0-windows\form_elemnaları_kod.dll
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\bin\Debug\net6.0-windows\form_elemnaları_kod.pdb
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.csproj.AssemblyReference.cache
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.AssemblyInfoInputs.cache
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.AssemblyInfo.cs
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.dll
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\refint\form_elemnaları_kod.dll
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.pdb
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.genruntimeconfig.cache
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\ref\form_elemnaları_kod.dll
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.Ana_pencerem.resources
+C:\Users\Ozgur\source\repos\form_elemnaları_kod\form_elemnaları_kod\obj\Debug\net6.0-windows\form_elemnaları_kod.csproj.GenerateResource.cache
